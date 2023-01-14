@@ -1,5 +1,5 @@
 # Data Visualization: Exploring with Seaborn [Revision]
-> Project Status: on development (2/5)
+> Project Status: completed (5/5)
 
 A Data Visualization revision nootebok. <br/>
 Practicing concepts, functions and codes. <br/>
